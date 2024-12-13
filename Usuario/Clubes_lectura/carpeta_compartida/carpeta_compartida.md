@@ -33,7 +33,7 @@ Cada usuario puede compartir sus impresiones sobre las listas de libros que han 
 
 ## 🛠️ **Acciones Recomendadas**  
 
-- **📚 Añadir tu propia lista de libros:**  Crea a partir de la plantilla tu lista y añadela a carpeta compartida de la rama compartida, esto hara un pull request y nosotros la revisaremos para subirla.
+- **📚 Añadir tu propia lista de libros:** Desde la rama llamada "rama" Crea a partir de la plantilla tu lista y añadela a carpeta compartida de la rama compartida, haz un git push cuando lo tengas subido, crea un pull request con tu peticion y nosotros la revisaremos para subirla.
 - **💬 Participa en los comentarios:** Si ves una lista de libros que te interesa, no dudes en dejar tus comentarios, compartir tu opinión y sugerir otros libros para que los usuarios la amplíen.
 - **🔄 Explora nuevas listas de libros:** Navega por las listas que otros usuarios han compartido. ¡Seguro que encuentras títulos interesantes y nuevos para leer!
 
