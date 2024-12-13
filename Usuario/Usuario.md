@@ -6,10 +6,19 @@
 ## 🚀 **¿Qué encontrarás en esta carpeta?**  
 - 📘 **Perfil de usuario**: Un archivo `README.md` donde podrás presentarte y personalizar tu espacio.  
 - 📚 **Lista de libros**: Un archivo con los libros que has leído, estás leyendo o planeas leer. Cada libro incluye:  
-  - **Título**  
-  - **Autor**  
-  - **Género**  
-  - **Año de publicación**  
+
+**📧 Correo Electrónico:**
+
+**👤 Nombre de Usuario:**
+
+**🔒 Contraseña:**
+
+**🔑 Confirmar Contraseña:**
+
+**📱 Teléfono (opcional):**
+
+**🌍 País:**
+
   - **Estado**: Leído, Leyendo o Pendiente  
   - **Reseña personal** (opcional)  
 
