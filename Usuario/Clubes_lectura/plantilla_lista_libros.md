@@ -36,9 +36,18 @@ A continuación, encuentra una lista de libros que han capturado mi atención. S
 
 ---
 
+### 👤 **Colaboradores:**
+- _Aquí puedes ver qué usuarios han añadido libros a esta lista:_  
+  - **Usuario123**: Propuso el libro "El Gran Viaje"
+  - **Usuario456**: Añadió "Misterios del Cosmos"
+  - **Usuario789**: Recomendó "El Secreto de la Montaña"
+
+---
+
 **[Añadir otro libro a la lista](#)**
 
 ---
 
 ¡Espero que encuentres algo interesante en esta lista de libros recomendados!  
 ¡No dudes en agregar el tuyo!
+
