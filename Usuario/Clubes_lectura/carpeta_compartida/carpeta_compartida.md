@@ -33,7 +33,7 @@ Cada usuario puede compartir sus impresiones sobre las listas de libros que han 
 
 ## 🛠️ **Acciones Recomendadas**  
 
-- **📚 Añadir tu propia lista de libros:** Usa la plantilla de registro de listas para agregar tus recomendaciones literarias. Comparte con la comunidad las lecturas que te han impactado o que crees que valen la pena.
+- **📚 Añadir tu propia lista de libros:**  Crea a partir de la plantilla tu lista y añadela a carpeta compartida de la rama compartida, esto hara un pull request y nosotros la revisaremos para subirla.
 - **💬 Participa en los comentarios:** Si ves una lista de libros que te interesa, no dudes en dejar tus comentarios, compartir tu opinión y sugerir otros libros para que los usuarios la amplíen.
 - **🔄 Explora nuevas listas de libros:** Navega por las listas que otros usuarios han compartido. ¡Seguro que encuentras títulos interesantes y nuevos para leer!
 
