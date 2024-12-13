@@ -9,11 +9,13 @@ La carpeta **Libros** contiene la plantilla principal que usarás para registrar
 
 ## 📝 **Estructura de la plantilla**  
 La plantilla contiene los siguientes campos:  
-- **📘 Título**: El nombre completo del libro.  
-- **✍️ Autor**: El autor o los autores del libro.  
-- **📚 Género**: La categoría o género literario (novela, ciencia ficción, ensayo, etc.).  
-- **📅 Año de publicación**: El año en que se publicó el libro.  
-- **📝 Reseña personal**: Un espacio opcional donde podrás escribir tu opinión o reflexiones sobre el libro.  
+**📚 Título del Libro:**
+**✍️ Autor:**
+**📖 Género:**
+**📅 Año de Publicación:**
+**🔖 ISBN (opcional):**
+**🏷️ Editorial (opcional):**
+**💬 Sinopsis (opcional):**
 
 ## 🛠️ **Acciones recomendadas**  
 - ✍️ **Usa la plantilla para registrar nuevos libros**: Copia la plantilla y personalízala con la información de tu libro.  
