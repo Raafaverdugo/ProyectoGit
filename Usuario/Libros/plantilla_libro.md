@@ -5,5 +5,3 @@
 **Genero:**
 
 **Año de publicacion:**
-
-**Reseña:**
