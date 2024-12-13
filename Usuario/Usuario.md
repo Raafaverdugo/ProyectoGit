@@ -4,8 +4,7 @@
 ¡Bienvenido a tu carpeta de usuario! Este es tu espacio personal dentro de **BookTrack**, donde podrás gestionar y registrar toda tu actividad de lectura. Aquí tendrás control total sobre tu biblioteca personal, tus reseñas y el historial de cambios, todo usando archivos Markdown y la potencia de Git y GitHub.  
 
 ## 🚀 **¿Qué encontrarás en esta carpeta?**  
-- 📘 **Perfil de usuario**: Un archivo `README.md` donde podrás presentarte y personalizar tu espacio.  
-- 📚 **Lista de libros**: Un archivo con los libros que has leído, estás leyendo o planeas leer. Cada libro incluye:  
+- 📘 **Perfil de usuario**: Un archivo `README.md` donde podrás presentarte y personalizar tu espacio. Para el registro es necesario: 
 
 **📧 Correo Electrónico:**
 
@@ -19,6 +18,7 @@
 
 **🌍 País:**
 
+- 📚 **Lista de libros**: Un archivo con los libros que has leído, estás leyendo o planeas leer. Cada libro incluye:  
   - **Estado**: Leído, Leyendo o Pendiente  
   - **Reseña personal** (opcional)  
 
