@@ -13,7 +13,8 @@ La carpeta **Clubes de Lectura** está diseñada para fomentar la colaboración 
 Esta plantilla permite a los miembros del club añadir nuevos libros a la lista de lecturas conjuntas. Los campos que incluye son:  
 - **📘 Título**: El nombre del libro a leer.  
 - **✍️ Autor**: El autor o los autores del libro.  
-- **📚 Género**: La categoría o género literario del libro.  
+- **📚 Género**: La categoría o género literario del libro.
+- **🛠️ Usuario**: Aquí se incluye el usuario que lo ha subido.
 
 ---
 
