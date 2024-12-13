@@ -1,5 +1,7 @@
-**Lista de libros**
---
-Modificacion realizada por:
+**Título:**
 
-Fecha:
+**Autor:**
+
+**Género:**
+
+**Usuario:**

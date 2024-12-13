@@ -1,7 +1,9 @@
-**Titulo:**
+- **Título:**
 
-**Autor:**
+- **Autor:**  
 
-**Genero:**
+- **Género:**  
 
-**Año de publicacion:**
+- **Año de publicación:**  
+
+- **Reseña personal** (opcional):
