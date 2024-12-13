@@ -10,11 +10,17 @@ La carpeta **Libros** contiene la plantilla principal que usarás para registrar
 ## 📝 **Estructura de la plantilla**  
 La plantilla contiene los siguientes campos:  
 **📚 Título del Libro:**
+
 **✍️ Autor:**
+
 **📖 Género:**
+
 **📅 Año de Publicación:**
+
 **🔖 ISBN (opcional):**
+
 **🏷️ Editorial (opcional):**
+
 **💬 Sinopsis (opcional):**
 
 ## 🛠️ **Acciones recomendadas**  
